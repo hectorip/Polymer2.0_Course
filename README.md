@@ -44,3 +44,8 @@ Curso de Polymer 2.0
     3. Uso de Polymer CLI para iniciar el proyecto
     4. Uso de Polymer CLI para crar Web Components
     5. Creando una aplicación de ejemplo (Cookbook y problemas comunes)
+
+7. Deploy
+
+    1. Build
+    2. HTTP/HTTP2
