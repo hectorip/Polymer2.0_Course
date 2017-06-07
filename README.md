@@ -7,14 +7,12 @@ Curso de Polymer 2.0
 ## Temario
 
   1. Introducción a los Web Components
-
     1. Custom Elements
     2. Templates
     3. HTML Import
     4. Shadow DOM
   
   2. Custom elements con Polymer
-
     1. Definición
     2. Ciclo de Vida
     3. Propiedades (Observadores, Propiedades computadas)
