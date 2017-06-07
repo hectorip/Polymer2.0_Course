@@ -6,38 +6,38 @@ Curso de Polymer 2.0
 
 ## Temario
 
-  1. Introducción a los Web Components
+1. Introducción a los Web Components
   
     1. Custom Elements
     2. Templates
     3. HTML Import
     4. Shadow DOM
   
-  2. Custom elements con Polymer
+2. Custom elements con Polymer
     
     1. Definición
     2. Ciclo de Vida
     3. Propiedades (Observadores, Propiedades computadas)
     4. Métodos
   
-  3. Data Binding
+3. Data Binding
     
     1. Simple
     2. Dos vías
     3. Data Binding de Objetos compuestos
 
-  4. DOM
+4. DOM
     
     1. Manejando el Shadow DOM
     2. Selectores y shortcuts de Polymer
     3. Shadow DOM API 
 
-  5. Estilos
+5. Estilos
     
     1. Selectores para componentes internos
     2. Mixins
 
-  6. Creando una Progessive Web App con Polymer 2.0
+6. Creando una Progessive Web App con Polymer 2.0
     
     1. Definición de PWA
     2. Capacidades de una PWA
